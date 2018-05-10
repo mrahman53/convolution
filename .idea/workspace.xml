@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eced6860-27be-4bac-9eb0-a3dbb7ba388f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dog-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog_app.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dog_app.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="eced6860-27be-4bac-9eb0-a3dbb7ba388f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -249,8 +241,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32913166" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32913166" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49719888" visible="true" weight="0.31857142" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32913166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49719888" visible="true" weight="0.31857142" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.48643005" visible="true" weight="0.16714285" />
